@@ -77,7 +77,7 @@ export const config = {
    * 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
-  FESTIVALS:
+  FESTIVALS: [
     {"type": "节日", "name": "高考倒计时日", "year": "2022", "date": "06-07"},
   ],
 
