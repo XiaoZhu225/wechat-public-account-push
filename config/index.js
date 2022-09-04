@@ -78,7 +78,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "节日", "name": "高考倒计时日", "year": "2022", "date": "06-07"},
+    {"type": "节日", "name": "高考倒计时", "year": "2022", "date": "06-07"},
   ],
 
   /**
