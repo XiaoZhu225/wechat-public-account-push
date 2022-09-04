@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oMnd76KpJ4R-Hr_dyzw4z0kWWBgg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Qfwwe6nMypBQyfFnFIxy4Xz-rwnK6Q8sRbQk7Nx3fn0",
+      useTemplateId: "HN9g9Cpt33DXI-bYS3CqIFF58F5P4hefEfrdGMuTQcw",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -77,11 +77,8 @@ export const config = {
    * 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
-  FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+  FESTIVALS:
+    {"type": "节日", "name": "高考倒计时", "year": "2023", "date": "06-07"},
   ],
 
   /**
